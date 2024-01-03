@@ -1,5 +1,5 @@
 Financial-Programs
-Welcome to the Financial-Programs repository! This project, maintained by QuinnG17, is dedicated to offering a suite of tools for financial data analysis and machine learning applications in finance.
+Welcome to the Financial-Programs repository! This project, maintained by Quinn Gilfillan, is dedicated to offering a suite of tools for financial data analysis and machine learning applications in finance.
 
 Overview
 This repository hosts a collection of scripts and applications designed for financial market analysis and machine learning. These tools are ideal for data analysts, traders, and anyone interested in harnessing the power of data science in finance.
